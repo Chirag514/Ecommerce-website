@@ -1,0 +1,802 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "realme Buds Wireless 2",
+    "category": "Electronics",
+    "price": 2499,
+    "image": "https://supplyleader.com/preview_files/786965.jpg",
+    "purchase_count": 24
+  },
+  {
+    "product_id": 2,
+    "product_title": "ThermoFlask Insulated Bottle",
+    "category": "Kitchen",
+    "price": 1799,
+    "image": "https://m.media-amazon.com/images/I/71sX+zyCwzL._SL1500_.jpg",
+    "purchase_count": 15
+  },
+  {
+    "product_id": 3,
+    "product_title": "G-Shock Digital Watch",
+    "category": "Watches",
+    "price": 5999,
+    "image": "https://www.casio.com/content/dam/casio/product-info/locales/us/en/timepiece/product/watch/G/GD/GD1/GD-100-1B/assets/GD-100-1B_Seq1.png.transform/main-visual-sp/image.png",
+    "purchase_count": 37
+  },
+  {
+    "product_id": 4,
+    "product_title": "Titan Analog Watch",
+    "category": "Watches",
+    "price": 2999,
+    "image": "https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw34d84079/images/Titan/Catalog/1802NL01_1.jpg",
+    "purchase_count": 42
+  },
+  {
+    "product_id": 5,
+    "product_title": "Samsung Smart TV",
+    "category": "Electronics",
+    "price": 42999,
+    "image": "https://i5.walmartimages.com/asr/2b2943fd-73d6-4d7b-9c54-e22db0c660f1_4.e79d68ec3a718064170de6cbd82e6030.jpeg",
+    "purchase_count": 21
+  },
+  {
+    "product_id": 6,
+    "product_title": "OnePlus Buds Pro",
+    "category": "Electronics",
+    "price": 8999,
+    "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/buds-pro/medium/Medium_Page4_1.jpg",
+    "purchase_count": 31
+  },
+  {
+    "product_id": 7,
+    "product_title": "Noise Smartwatch",
+    "category": "Electronics",
+    "price": 3499,
+    "image": "https://m.media-amazon.com/images/I/71KjTSO8M9L._SL1500_.jpg",
+    "purchase_count": 29
+  },
+  {
+    "product_id": 8,
+    "product_title": "MacBook Pro",
+    "category": "Computers",
+    "price": 129999,
+    "image": "https://www.apple.com/newsroom/images/product/mac/standard/Apple-MacBook-Pro-M2-Pro-and-M2-Max-hero-230117_Full-Bleed-Image.jpg.large.jpg",
+    "purchase_count": 13
+  },
+  {
+    "product_id": 9,
+    "product_title": "Sony WH-1000XM4",
+    "category": "Electronics",
+    "price": 24999,
+    "image": "https://mspoweruser.com/wp-content/uploads/2020/08/Sony-WH-1000XM4.jpg",
+    "purchase_count": 19
+  },
+  {
+    "product_id": 10,
+    "product_title": "JBL Tune 225TWS",
+    "category": "Electronics",
+    "price": 5999,
+    "image": "https://www.jbl.com.my/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw3bc7ffe2/pdp/JBL_TUNE225TWS_Black_Box Image_Side.png",
+    "purchase_count": 26
+  },
+  {
+    "product_id": 11,
+    "product_title": "ASUS ROG Laptop",
+    "category": "Computers",
+    "price": 159999,
+    "image": "https://news-cdn.softpedia.com/images/news2/ASUS-Launches-the-ROG-G75VW-and-G55VW-Gaming-Laptops-2.jpg",
+    "purchase_count": 9
+  },
+  {
+    "product_id": 12,
+    "product_title": "Samsung Galaxy Buds Live",
+    "category": "Electronics",
+    "price": 7999,
+    "image": "https://microless.com/cdn/products/126e72e593817bb310f09289f724ab12-hi.jpg",
+    "purchase_count": 17
+  },
+  {
+    "product_id": 13,
+    "product_title": "Lenovo ThinkPad",
+    "category": "Computers",
+    "price": 84999,
+    "image": "https://i5.walmartimages.com/asr/62f9d120-fafd-4f9b-968e-42496b5ebdb6_1.21711fc4099a7ae5c2f677ad0ede18ad.jpeg",
+    "purchase_count": 14
+  },
+  {
+    "product_id": 14,
+    "product_title": "NutriBullet Blender",
+    "category": "Kitchen",
+    "price": 3499,
+    "image": "https://nbmedia.imgix.net/nb-blender-lifestyle-1500-x-1201-hero.jpg?auto=compress%2Cformat&ixlib=php-3.3.0&h=900",
+    "purchase_count": 22
+  },
+  {
+    "product_id": 15,
+    "product_title": "iPhone 13",
+    "category": "Mobiles",
+    "price": 79999,
+    "image": "https://media.croma.com/image/upload/v1664009557/Croma Assets/Communication/Mobiles/Images/243467_7_vx7viq.png",
+    "purchase_count": 33
+  },
+  {
+    "product_id": 16,
+    "product_title": "Apple AirPods 2",
+    "category": "Electronics",
+    "price": 12999,
+    "image": "https://www.wirelessearbuds.best/wp-content/uploads/2020/02/710rzW2RGcL._SL1500_-2.jpg",
+    "purchase_count": 25
+  },
+  {
+    "product_id": 17,
+    "product_title": "ASUS VivoBook",
+    "category": "Computers",
+    "price": 58999,
+    "image": "https://www.bhphotovideo.com/images/images2500x2500/asus_e403sa_us21_vivobook_14_notebook_brushed_1237647.jpg",
+    "purchase_count": 18
+  },
+  {
+    "product_id": 18,
+    "product_title": "Zebronics Multimedia Headset",
+    "category": "Electronics",
+    "price": 1299,
+    "image": "https://rukminim1.flixcart.com/image/704/704/headset/u/9/r/zebronics-stingray-multimedia-gaming-original-imadpq52fpbmqxek.jpeg?q=70",
+    "purchase_count": 20
+  },
+  {
+    "product_id": 19,
+    "product_title": "Acer Aspire 7",
+    "category": "Computers",
+    "price": 57999,
+    "image": "https://static.acer.com/up/Resource/Acer/Laptops/Aspire_7/Overview/20190513/Aspire_7_KSP_1_1920.jpg",
+    "purchase_count": 11
+  },
+  {
+    "product_id": 20,
+    "product_title": "Lenovo Ideapad",
+    "category": "Computers",
+    "price": 45999,
+    "image": "https://i5.walmartimages.com/asr/43baff92-0a93-4866-95d5-41e5aacb87f3.bdd49bb985f691f0dfab5212036cf30f.jpeg",
+    "purchase_count": 16
+  },
+  {
+    "product_id": 21,
+    "product_title": "HP Pavilion x360",
+    "category": "Computers",
+    "price": 67999,
+    "image": "https://store.hp.com/UKStore/Html/Merch/Images/c06018984_1750x1285.jpg",
+    "purchase_count": 12
+  },
+  {
+    "product_id": 22,
+    "product_title": "Sony Bravia 4K TV",
+    "category": "Electronics",
+    "price": 58999,
+    "image": "https://www.sony.co.in/image/5d8a6b6e32f1bc88aaf3b002dfd92be1?fmt=jpeg&wid=1400",
+    "purchase_count": 28
+  },
+  {
+    "product_id": 23,
+    "product_title": "Bose QuietComfort 45",
+    "category": "Electronics",
+    "price": 29999,
+    "image": "https://assets.bose.com/content/dam/cloudassets/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc45/product_silo_images/CREA-1003_QC45_TrinityRodman_GetLoud_01145_1200x1022.jpg/jcr:content/renditions/cq5dam.web.1000.1000.jpeg",
+    "purchase_count": 19
+  },
+  {
+    "product_id": 24,
+    "product_title": "Canon EOS 1500D DSLR",
+    "category": "Cameras",
+    "price": 41999,
+    "image": "https://www.camera-warehouse.com.au/media/catalog/product/e/o/eos_1500d_01_1_1.jpg",
+    "purchase_count": 10
+  },
+  {
+    "product_id": 25,
+    "product_title": "Nikon D3500 DSLR",
+    "category": "Cameras",
+    "price": 47999,
+    "image": "https://imaging.nikon.com/imaging/lineup/dslr/d3500/img/product_01_02.jpg",
+    "purchase_count": 8
+  },
+  {
+    "product_id": 26,
+    "product_title": "Fire-Boltt Ring",
+    "category": "Watches",
+    "price": 2699,
+    "image": "https://www.bajajmall.in/emistore/media/catalog/product/b/s/bsw00516_additional5.jpeg",
+    "purchase_count": 23
+  },
+  {
+    "product_id": 27,
+    "product_title": "Fossil Gen 5 Smartwatch",
+    "category": "Watches",
+    "price": 18999,
+    "image": "https://www.smartgearcompare.nl/wp-content/uploads/2020/01/Fossil-Smartwatches-Garrett-HR-Gen-5-Display-Smartwatch-FTW4040.jpg",
+    "purchase_count": 17
+  },
+  {
+    "product_id": 28,
+    "product_title": "Apple Watch SE",
+    "category": "Watches",
+    "price": 29999,
+    "image": "https://media.croma.com/image/upload/v1668271334/Croma Assets/Communication/Wearable Devices/Images/262052_0_ibxrul.png",
+    "purchase_count": 35
+  },
+  {
+    "product_id": 29,
+    "product_title": "iQOO Z7 5G",
+    "category": "Mobiles",
+    "price": 18999,
+    "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/j/n/8/z7-5g-i2207-iqoo-original-imagz5yxghygfxwz.jpeg?q=70",
+    "purchase_count": 27
+  },
+  {
+    "product_id": 30,
+    "product_title": "Redmi Note 12 Pro",
+    "category": "Mobiles",
+    "price": 23999,
+    "image": "https://novicompu.vtexassets.com/arquivos/ids/167304/1CXIA1991.jpg?v=638193455426600000",
+    "purchase_count": 34
+  },
+  {
+    "product_id": 31,
+    "product_title": "Samsung Galaxy S22",
+    "category": "Mobiles",
+    "price": 54999,
+    "image": "https://images-cdn.ubuy.co.in/3PJ43U2-samsung-galaxy-s22-ultra-5g-128-256gb.jpg",
+    "purchase_count": 36
+  },
+  {
+    "product_id": 32,
+    "product_title": "OnePlus 11R",
+    "category": "Mobiles",
+    "price": 39999,
+    "image": "https://img.poorvika.com/cdn-cgi/image/width=150,height=150,quality=75/1600_JPG/Mobiles/Oneplus/Oneplus 11R 5G/one-plus-11R-5G-Sonic-Black-front-back-view-1.jpg",
+    "purchase_count": 30
+  },
+  {
+    "product_id": 33,
+    "product_title": "Google Pixel 7",
+    "category": "Mobiles",
+    "price": 59999,
+    "image": "https://lh3.googleusercontent.com/iRgZHet4o7bOjx4nrqy67uHLF_3wmL6mXzDi_YSiXM-oBhiMYTXabI2IZVW_IoIANbGbeE_E3l_KDpilS0zRsPXbawpoKxVyens",
+    "purchase_count": 22
+  },
+  {
+    "product_id": 34,
+    "product_title": "iPhone 14 Pro",
+    "category": "Mobiles",
+    "price": 129999,
+    "image": "https://static.digitecgalaxus.ch/Files/6/8/2/2/7/9/3/8/iPhone_14_Pro_Deep_Purple_PDP_Image_Position-4__WWEN.jpg",
+    "purchase_count": 41
+  },
+  {
+    "product_id": 35,
+    "product_title": "Inalsa Mixer Grinder",
+    "category": "Kitchen",
+    "price": 2499,
+    "image": "https://m.media-amazon.com/images/I/81w2mDlaETL._SL1500_.jpg",
+    "purchase_count": 16
+  },
+  {
+    "product_id": 36,
+    "product_title": "Prestige Electric Kettle",
+    "category": "Kitchen",
+    "price": 1399,
+    "image": "https://ii1.pepperfry.com/media/catalog/product/p/r/1100x1210/prestige-1-5-litres-electric-kettle--model_pkoss--prestige-1-5-litres-electric-kettle--model_pkoss--k4bql8.jpg",
+    "purchase_count": 14
+  },
+  {
+    "product_id": 37,
+    "product_title": "Philips Air Fryer",
+    "category": "Kitchen",
+    "price": 8999,
+    "image": "https://images.philips.com/is/image/philipsconsumer/5339cc64f8324fe88207ad140003ee7b?$jpglarge$&wid=960",
+    "purchase_count": 12
+  },
+  {
+    "product_id": 38,
+    "product_title": "Samsung Smart Monitor",
+    "category": "Electronics",
+    "price": 17999,
+    "image": "https://d2g44tvvp35wo2.cloudfront.net/photo/global/2022/03/28/Smart-Monitor-M8-2.jpg",
+    "purchase_count": 18
+  },
+  {
+    "product_id": 39,
+    "product_title": "Dell UltraSharp Monitor",
+    "category": "Electronics",
+    "price": 28999,
+    "image": "https://images-na.ssl-images-amazon.com/images/G/01/electronics/dell/cnet_ultrasharpu2711-gallery-02.jpg",
+    "purchase_count": 13
+  },
+  {
+    "product_id": 40,
+    "product_title": "Logitech MX Master 3",
+    "category": "Electronics",
+    "price": 7999,
+    "image": "https://thegadgetflow.com/wp-content/uploads/2019/09/Logitech-MX-Master-3-Advanced-Wireless-Mouse-07.jpg",
+    "purchase_count": 21
+  },
+  {
+    "product_id": 41,
+    "product_title": "Apple MacBook Air M2",
+    "category": "Computers",
+    "price": 114999,
+    "image": "https://www.apple.com/newsroom/images/product/mac/standard/Apple-WWDC22-MacBook-Air-lp-220606.jpg.og.jpg?202503110158",
+    "purchase_count": 33
+  },
+  {
+    "product_id": 42,
+    "product_title": "ASUS ROG Strix G15",
+    "category": "Computers",
+    "price": 89999,
+    "image": "https://altechelectronics.org/wp-content/uploads/2021/07/6466550ld-1536x1057.jpg",
+    "purchase_count": 25
+  },
+  {
+    "product_id": 43,
+    "product_title": "Lenovo Yoga Slim 7",
+    "category": "Computers",
+    "price": 74999,
+    "image": "https://media.croma.com/image/upload/v1664418801/Croma Assets/Computers Peripherals/Laptop/Images/257380_0_jldoqr.png",
+    "purchase_count": 18
+  },
+  {
+    "product_id": 44,
+    "product_title": "HP Omen Gaming Laptop",
+    "category": "Computers",
+    "price": 102999,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81LUaazJcZL.jpg",
+    "purchase_count": 14
+  },
+  {
+    "product_id": 45,
+    "product_title": "Dell Inspiron 15",
+    "category": "Computers",
+    "price": 55999,
+    "image": "https://brain-images-ssl.cdn.dixons.com/8/1/10153218/u_10153218.jpg",
+    "purchase_count": 20
+  },
+  {
+    "product_id": 46,
+    "product_title": "Sony WH-1000XM4",
+    "category": "Electronics",
+    "price": 23999,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71a5XAAbzbL._AC_SL1500_.jpg",
+    "purchase_count": 26
+  },
+  {
+    "product_id": 47,
+    "product_title": "Samsung Galaxy Buds2",
+    "category": "Electronics",
+    "price": 10999,
+    "image": "https://m.media-amazon.com/images/I/51xZUWwXWQL._AC_SX679_.jpg",
+    "purchase_count": 22
+  },
+  {
+    "product_id": 48,
+    "product_title": "JBL Flip 6 Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 10999,
+    "image": "https://www.bhphotovideo.com/images/images1500x1500/jbl_jblflip6blkam_flip_6_waterproof_bluetooth_1693528.jpg",
+    "purchase_count": 31
+  },
+  {
+    "product_id": 49,
+    "product_title": "Realme Watch 2 Pro",
+    "category": "Watches",
+    "price": 3999,
+    "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2021/06/realme-watch-2-pro-frandroid-2021.png?resize=350",
+    "purchase_count": 24
+  },
+  {
+    "product_id": 50,
+    "product_title": "boAt Xtend Smartwatch",
+    "category": "Watches",
+    "price": 2799,
+    "image": "https://m.media-amazon.com/images/I/61IMRs+o0iL._SL1500_.jpg",
+    "purchase_count": 29
+  },
+  {
+    "product_id": 51,
+    "product_title": "Samsung Galaxy Watch 4",
+    "category": "Watches",
+    "price": 16999,
+    "image": "https://image-us.samsung.com/us/smartphones/galaxy-z-fold3-5g/wise-fresh-berry/watch4-wise/gallery-7-19/46mm-bt/01SM-R890_Watch4_BT_Black_RGB-Gallery-1600x1200.jpg",
+    "purchase_count": 15
+  },
+  {
+    "product_id": 52,
+    "product_title": "Noise ColorFit Pro 3",
+    "category": "Watches",
+    "price": 2999,
+    "image": "https://cdn1.smartprix.com/rx-iptNcz5iV-w1200-h1200/noise-colorfit-pro-3.jpg",
+    "purchase_count": 19
+  },
+  {
+    "product_id": 53,
+    "product_title": "Tissot Men's Chronograph",
+    "category": "Watches",
+    "price": 37999,
+    "image": "https://www.jomashop.com/media/catalog/product/t/i/tissot-prs-516-chronograph-black-dial-men_s-watch-t1004173605100_4.jpg",
+    "purchase_count": 11
+  },
+  {
+    "product_id": 54,
+    "product_title": "Dell XPS 13",
+    "category": "Computers",
+    "price": 129999,
+    "image": "https://microless.com/cdn/products/f026b0f0fb6302d095eda73e25215408-hi.jpg",
+    "purchase_count": 9
+  },
+  {
+    "product_id": 55,
+    "product_title": "ASUS VivoBook Ultra",
+    "category": "Computers",
+    "price": 54999,
+    "image": "https://media.croma.com/image/upload/v1666277881/Croma Assets/Computers Peripherals/Tablets and iPads/Images/259347_1_zpfuxv.png",
+    "purchase_count": 13
+  },
+  {
+    "product_id": 56,
+    "product_title": "HP Envy x360",
+    "category": "Computers",
+    "price": 85999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6364/6364576cv3d.jpg",
+    "purchase_count": 16
+  },
+  {
+    "product_id": 57,
+    "product_title": "MSI Modern 14",
+    "category": "Computers",
+    "price": 49999,
+    "image": "https://asset.msi.com/resize/image/global/product/product_168974719493480c4e090deebe413ef445cef0ec7d.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+    "purchase_count": 10
+  },
+  {
+    "product_id": 58,
+    "product_title": "Lenovo Legion 5",
+    "category": "Computers",
+    "price": 96999,
+    "image": "https://nomadaware.com.ec/wp-content/uploads/2023/03/2-2.jpg",
+    "purchase_count": 12
+  },
+  {
+    "product_id": 59,
+    "product_title": "Bajaj Room Heater",
+    "category": "Electronics",
+    "price": 2199,
+    "image": "https://5.imimg.com/data5/UP/AX/DT/SELLER-26262292/bajaj-room-heater-1000x1000.JPG",
+    "purchase_count": 17
+  },
+  {
+    "product_id": 60,
+    "product_title": "Orient Electric Fan",
+    "category": "Electronics",
+    "price": 2899,
+    "image": "https://www.jvelectric.co.in/stores/image/cache/catalog/orient-spind-multi-utility-900x900w.png",
+    "purchase_count": 21
+  },
+  {
+    "product_id": 61,
+    "product_title": "Havells Geyser",
+    "category": "Electronics",
+    "price": 7899,
+    "image": "https://n2.sdlcdn.com/imgs/d/c/s/havells_installio_red_blue-8d210.jpg",
+    "purchase_count": 23
+  },
+  {
+    "product_id": 62,
+    "product_title": "Sony PlayStation 5",
+    "category": "Gaming",
+    "price": 49999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6566/6566039_rd.jpg",
+    "purchase_count": 40
+  },
+  {
+    "product_id": 63,
+    "product_title": "Xbox Series X",
+    "category": "Gaming",
+    "price": 49999,
+    "image": "https://i5.walmartimages.com/asr/4b0aa8cd-3626-4d7d-ab36-dd3d164d53f4.f43d7cb6934a2048ad614da102bc17d5.png",
+    "purchase_count": 38
+  },
+  {
+    "product_id": 64,
+    "product_title": "Nintendo Switch",
+    "category": "Gaming",
+    "price": 32999,
+    "image": "https://i5.walmartimages.com/asr/c5d062a3-2fa9-4e34-bd65-5ec406a9884b.98fc4bdea720c4c4d382ab998059ae62.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
+    "purchase_count": 36
+  },
+  {
+    "product_id": 65,
+    "product_title": "Razer BlackWidow Keyboard",
+    "category": "Gaming",
+    "price": 9999,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6425/6425357_sd.jpg",
+    "purchase_count": 20
+  },
+  {
+    "product_id": 66,
+    "product_title": "Logitech G502 Mouse",
+    "category": "Gaming",
+    "price": 4999,
+    "image": "https://dfestore.com/wp-content/uploads/2020/05/9437-1.png",
+    "purchase_count": 24
+  },
+  {
+    "product_id": 67,
+    "product_title": "Zebronics Gaming Cabinet",
+    "category": "Gaming",
+    "price": 6999,
+    "image": "https://i7solutions.in/wp-content/uploads/2021/06/Zebronics-Zeb-Ironside-ZEB-872B-Premium-Gaming-Cabinet.jpg",
+    "purchase_count": 18
+  },
+  {
+    "product_id": 68,
+    "product_title": "Corsair Gaming Headset",
+    "category": "Gaming",
+    "price": 7499,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6395/6395426cv13d.jpg",
+    "purchase_count": 22
+  },
+  {
+    "product_id": 69,
+    "product_title": "Samsung Galaxy Tab S8",
+    "category": "Tablets",
+    "price": 58999,
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x900nzaeinu/gallery/in-galaxy-tab-s8-ultra-wifi-x900-sm-x900nzaeinu-534251364?$650_519_PNG$",
+    "purchase_count": 27
+  },
+  {
+    "product_id": 70,
+    "product_title": "Apple iPad Air",
+    "category": "Tablets",
+    "price": 54999,
+    "image": "https://m.media-amazon.com/images/I/61k05QwLuML.jpg",
+    "purchase_count": 32
+  },
+  {
+    "product_id": 71,
+    "product_title": "Lenovo Tab M10",
+    "category": "Tablets",
+    "price": 15999,
+    "image": "https://i5.walmartimages.com/asr/8309d7d9-8c87-4b70-8f4c-c92ea60f7769_1.da63fa4ffdec5ba5ebf3f3dd5f7aed10.jpeg",
+    "purchase_count": 16
+  },
+  {
+    "product_id": 72,
+    "product_title": "Realme Pad X",
+    "category": "Tablets",
+    "price": 17999,
+    "image": "https://down-my.img.susercontent.com/file/my-11134207-7r98o-ll1zna27w8qd4c",
+    "purchase_count": 14
+  },
+  {
+    "product_id": 73,
+    "product_title": "Micromax Canvas Tab",
+    "category": "Tablets",
+    "price": 10999,
+    "image": "http://images.fonearena.com/blog/wp-content/uploads/2015/06/Micromax-Canvas-Tab-P6901.jpg",
+    "purchase_count": 10
+  },
+  {
+    "product_id": 74,
+    "product_title": "Samsung Washing Machine",
+    "category": "Home Appliances",
+    "price": 22499,
+    "image": "http://images.samsung.com/is/image/samsung/au_WF1702XEC-XSA_004_Front_white_10029420084301?$TM-Gallery$",
+    "purchase_count": 15
+  },
+  {
+    "product_id": 75,
+    "product_title": "LG Refrigerator",
+    "category": "Home Appliances",
+    "price": 27999,
+    "image": "https://www.lg.com/us/images/refrigerators/md08003944/gallery/DZ-1.jpg",
+    "purchase_count": 18
+  },
+  {
+    "product_id": 76,
+    "product_title": "Voltas Air Conditioner",
+    "category": "Home Appliances",
+    "price": 33999,
+    "image": "https://mma.prnewswire.com/media/1449694/Voltas_and_VoltBek_Product_spread.jpg?p=facebook",
+    "purchase_count": 20
+  },
+  {
+    "product_id": 77,
+    "product_title": "IFB Microwave Oven",
+    "category": "Home Appliances",
+    "price": 11499,
+    "image": "https://m.media-amazon.com/images/I/71W-OAGCL0L._SL1500_.jpg",
+    "purchase_count": 13
+  },
+  {
+    "product_id": 78,
+    "product_title": "Philips Hair Dryer",
+    "category": "Personal Care",
+    "price": 1499,
+    "image": "https://shop-philips.com.ph/wp-content/uploads/2021/11/BHD340-10-2.jpg",
+    "purchase_count": 17
+  },
+  {
+    "product_id": 79,
+    "product_title": "Mi Beard Trimmer",
+    "category": "Personal Care",
+    "price": 1299,
+    "image": "https://img.tatacliq.com/images/i11/437Wx649H/MP000000017612885_437Wx649H_202305191511491.jpeg",
+    "purchase_count": 19
+  },
+  {
+    "product_id": 80,
+    "product_title": "Braun Epilator",
+    "category": "Personal Care",
+    "price": 2999,
+    "image": "https://i5.walmartimages.com/asr/0e4350db-5806-48a4-a745-e0ef556e5cc1_1.5307c747f0e285aaa307f351a9e6d62d.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
+    "purchase_count": 14
+  },
+  {
+    "product_id": 81,
+    "product_title": "Dyson Airwrap",
+    "category": "Personal Care",
+    "price": 44999,
+    "image": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/leap-petite-global/campaigns/hair-care/q4-gifting/2022/pdp/aw/gallery/PDP-Gallery-3-AW-Full-Product-Complete-Case.jpg?&cropPathE=desktop&fit=stretch,1&fmt=pjpeg&wid=1920",
+    "purchase_count": 9
+  },
+  {
+    "product_id": 82,
+    "product_title": "Colgate Electric Toothbrush",
+    "category": "Personal Care",
+    "price": 1999,
+    "image": "https://www.colgate.com/content/dam/cp-sites/oral-care/oral-care-center-relaunch/global/electric-toothbrush/img-product-lifestyle.png",
+    "purchase_count": 12
+  },
+  {
+    "product_id": 83,
+    "product_title": "Sony Alpha ZV-E10",
+    "category": "Cameras",
+    "price": 64999,
+    "image": "https://img.vistek.net/prodimg/xlarge/446375.jpg",
+    "purchase_count": 11
+  },
+  {
+    "product_id": 84,
+    "product_title": "Fujifilm Instax Mini 11",
+    "category": "Cameras",
+    "price": 5999,
+    "image": "https://m.media-amazon.com/images/I/71TGE1G-pWL._AC_SL1500_.jpg",
+    "purchase_count": 16
+  },
+  {
+    "product_id": 85,
+    "product_title": "GoPro HERO10",
+    "category": "Cameras",
+    "price": 44999,
+    "image": "https://static.gopro.com/assets/blta2b8522e5372af40/blt6fbe24e08b6ebc0d/62d807e8d9851110d46cf775/pdp-h10-q2-july-25th-sa-gallery-1920-2x.png?width=1920&quality=80&auto=webp&disable=upscale",
+    "purchase_count": 18
+  },
+  {
+    "product_id": 86,
+    "product_title": "DJI Osmo Action 3",
+    "category": "Cameras",
+    "price": 36999,
+    "image": "https://www.bhphotovideo.com/images/images2500x2500/dji_cp_os_00000220_01_osmo_action_3_standard_1724960.jpg",
+    "purchase_count": 13
+  },
+  {
+    "product_id": 87,
+    "product_title": "Canon PowerShot G7 X",
+    "category": "Cameras",
+    "price": 57999,
+    "image": "https://brain-images-ssl.cdn.dixons.com/9/4/10196049/u_10196049.jpg",
+    "purchase_count": 10
+  },
+  {
+    "product_id": 88,
+    "product_title": "Samsung Galaxy M14",
+    "category": "Mobiles",
+    "price": 12999,
+    "image": "https://img.global.news.samsung.com/in/wp-content/uploads/2023/04/15576_Galaxy-M14_KV_3000x2000-e1682666017687.jpg",
+    "purchase_count": 28
+  },
+  {
+    "product_id": 89,
+    "product_title": "Vivo T2 5G",
+    "category": "Mobiles",
+    "price": 15999,
+    "image": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1680608097320/0fb3e3b92ff473c95f774fbc2dd81819.png",
+    "purchase_count": 26
+  },
+  {
+    "product_id": 90,
+    "product_title": "Motorola G73",
+    "category": "Mobiles",
+    "price": 18999,
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/r/k/h/g73-5g-paux0023in-motorola-original-imagngjh7epkhqdg.jpeg?q=90&crop=false",
+    "purchase_count": 24
+  },
+  {
+    "product_id": 91,
+    "product_title": "Magnetic Levitating Globe",
+    "price": 39.99,
+    "category": "Office",
+    "image": "https://sc04.alicdn.com/kf/H4e787bd2be984765a6744635d4f3e29fG/229369818/H4e787bd2be984765a6744635d4f3e29fG.png",
+    "purchase_count": 118
+  },
+  {
+    "product_id": 92,
+    "product_title": "Pet Water Fountain",
+    "price": 26.5,
+    "category": "Pet Supplies",
+    "image": "https://m.media-amazon.com/images/I/710s70s44vL._AC_SL1500_.jpg",
+    "purchase_count": 233
+  },
+  {
+    "product_id": 93,
+    "product_title": "USB Mini Desk Fan",
+    "price": 14.99,
+    "category": "Electronics",
+    "image": "https://m.media-amazon.com/images/I/71HTftYEVTL.jpg",
+    "purchase_count": 188
+  },
+  {
+    "product_id": 94,
+    "product_title": "Adjustable Laptop Stand",
+    "price": 34.75,
+    "category": "Office",
+    "image": "https://microless.com/cdn/products/b04264b27e8bec627b65dc2711b07379-hi.jpg",
+    "purchase_count": 301
+  },
+  {
+    "product_id": 95,
+    "product_title": "Wooden Puzzle Box",
+    "price": 19.99,
+    "category": "Toys",
+    "image": "https://img0.etsystatic.com/000/0/6126378/il_fullxfull.251127636.jpg",
+    "purchase_count": 96
+  },
+  {
+    "product_id": 96,
+    "product_title": "Bluetooth Sleep Headphones",
+    "price": 28.99,
+    "category": "Wellness",
+    "image": "https://m.media-amazon.com/images/I/81mae7qRxmS._AC_SL1500_.jpg",
+    "purchase_count": 267
+  },
+  {
+    "product_id": 97,
+    "product_title": "LED Makeup Mirror",
+    "price": 22.99,
+    "category": "Beauty",
+    "image": "https://i5.walmartimages.com/asr/e595a4e7-be82-4f84-a8f2-e099a31ae955_1.2cfac184cc14e0f522f77abfde22ae3a.jpeg",
+    "purchase_count": 345
+  },
+  {
+    "product_id": 98,
+    "product_title": "Magnetic Spice Jars Set",
+    "price": 17.5,
+    "category": "Kitchen",
+    "image": "https://m.media-amazon.com/images/I/81FfwH4XvCL.jpg",
+    "purchase_count": 154
+  },
+  {
+    "product_id": 99,
+    "product_title": "Wireless Charging Station",
+    "price": 45.0,
+    "category": "Electronics",
+    "image": "https://www.xtremecables.com/wp-content/uploads/2020/02/XWC8-1019-QIB-1.jpg",
+    "purchase_count": 412
+  },
+  {
+    "product_id": 100,
+    "product_title": "Portable Blender Bottle",
+    "price": 27.89,
+    "category": "Fitness",
+    "image": "https://i5.walmartimages.com/asr/a27ed7e0-4c0f-4930-9f54-5481834f1fef_2.96bc43dcaa4ec1d6df59097c10f2f1b8.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff",
+    "purchase_count": 284
+  }
+]

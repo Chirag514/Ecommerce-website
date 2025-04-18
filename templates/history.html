@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+{% block title %}Purchase History{% endblock %}
+
+{% block content %}
+<div class="container mt-4">
+    <h2>Purchase History</h2>
+    <div class="alert alert-info mt-3">
+        Total Spent: ₹{{ total_spent }}
+    </div>
+    {% if purchases %}
+    <div class="row mt-3">
+        {% for purchase in purchases %}
+        <div class="col-md-6 mb-4">
+            <div class="card h-100">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img src="{{ purchase.product.image }}" class="img-fluid rounded-start" style="max-height: 150px;">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ purchase.product.title }}</h5>
+                            <p class="card-text">
+                                Price: ₹{{ purchase.amount }}<br>
+                                Purchased on: {{ purchase.purchase_date }}
+                            </p>
+                            {% if purchase.user_rating is not none %}
+                            <div class="text-success">
+                                You rated: {{ purchase.user_rating }} stars
+                            </div>
+                            {% else %}
+                            <form method="POST" action="/rate/{{ purchase.product.id }}">
+                                <div class="input-group">
+                                    <select name="rating" class="form-select">
+                                        <option value="">Rate this product...</option>
+                                        <option value="5">5 Stars</option>
+                                        <option value="4">4 Stars</option>
+                                        <option value="3">3 Stars</option>
+                                        <option value="2">2 Stars</option>
+                                        <option value="1">1 Star</option>
+                                    </select>
+                                    <button type="submit" class="btn btn-outline-primary">Submit</button>
+                                </div>
+                            </form>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% else %}
+    <div class="alert alert-info mt-3">No purchases found</div>
+    {% endif %}
+</div>
+{% endblock %}

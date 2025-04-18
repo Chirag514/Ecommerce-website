@@ -1,0 +1,27 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark px-3">
+    <a class="navbar-brand d-flex align-items-center" href="/products">
+        <img src="{{ url_for('static', filename='images/logo2.png') }}" alt="Logo" width="70" height="70" class="me-2">
+        <span>ShopSmart</span>
+    </a>
+    <div class="collapse navbar-collapse">
+        <form class="d-flex ms-auto" method="get" action="/search">
+            <input name="q" class="form-control me-2" type="search" placeholder="Search">
+            <button class="btn btn-outline-light" type="submit">Search</button>
+        </form>
+        <ul class="navbar-nav ms-3">
+            <li class="nav-item">
+                <a class="nav-link position-relative" href="/cart">
+                    Cart
+                    {% if cart_count > 0 %}
+                    <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+                        {{ cart_count }}
+                    </span>
+                    {% endif %}
+                </a>
+            </li>
+            <li class="nav-item"><a class="nav-link" href="/recommendations">Recommendations</a></li>
+            <li class="nav-item"><a class="nav-link" href="/history">My Purchases</a></li>
+            <li class="nav-item"><a class="nav-link" href="/logout">Logout ({{ current_user }})</a></li>
+        </ul>
+    </div>
+</nav>

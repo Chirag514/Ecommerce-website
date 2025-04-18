@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block title %}Products{% endblock %}
+
+{% block content %}
+<div class="row">
+    {% for p in products %}
+    <div class="col-md-4 mb-4">
+        <div class="card h-100">
+            <img src="{{ p.image }}" class="card-img-top" style="height: 200px; object-fit: contain;">
+            <div class="card-body">
+                <h5 class="card-title">{{ p.title }}</h5>
+                <p class="card-text">Price: ₹{{ p.price }}<br>Category: {{ p.category }}</p>
+                <div class="d-grid gap-2">
+                    <a href="/purchase/{{ p.id }}" class="btn btn-primary">Buy Now</a>
+                    <button onclick="addToCart('{{ p.id }}')" class="btn btn-outline-primary">
+                        Add to Cart
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+function addToCart(productId) {
+    fetch(`/add_to_cart/${productId}`)
+        .then(response => window.location.reload())
+        .catch(error => console.error('Error:', error));
+}
+</script>
+{% endblock %}
