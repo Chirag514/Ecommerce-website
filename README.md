@@ -41,7 +41,7 @@ A fully functional eCommerce platform built with **Python Flask**, featuring use
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/shopsmart.git
+git clone https://github.com/Chirag514/Ecommerce-website.git
 cd shopsmart
 
 # Create and activate virtual environment
