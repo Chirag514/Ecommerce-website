@@ -1,34 +1,57 @@
 # 🛍️ ShopSmart – Flask-Based eCommerce Platform
 
-ShopSmart is a simple yet powerful eCommerce web application built using Python (Flask), HTML/CSS, and Bootstrap. It supports user registration, login, product browsing, cart management, purchase history, and product recommendations.
+A fully functional eCommerce platform built with **Python Flask**, featuring user authentication, product recommendations, cart management, and purchase history tracking. Designed for simplicity and extensibility.
 
 ---
 
-## 📦 Features
-
-- 👤 User Authentication (Signup, Login, Logout)
-- 🛍️ Product Listing with Categories and Images
-- 🛒 Add to Cart & Cart Management
-- 💳 Purchase Flow and Purchase History
-- ⭐ Product Ratings & Reviews
-- 🔍 Search and Smart Recommendations
-- 📈 Popularity-based and Category-based Recommendations
-
----
-
-## 🧰 Tech Stack
-
-- **Backend**: Python 3.12, Flask
-- **Frontend**: HTML, CSS, Bootstrap 5, Tailwind
-- **Templating**: Jinja2
-- **Data Storage**: JSON + Flat file (`users.txt`)
+## ✨ Key Features
+| Feature | Description |
+|---------|-------------|
+| **🔐 User Auth** | Secure registration/login system with Flask sessions |
+| **🛒 Smart Cart** | Add/remove items, track quantities, and persist cart data across sessions |
+| **📜 Purchase History** | Detailed order history with timestamps and ratings |
+| **🔍 Product Search** | Real-time search across product titles |
+| **🌟 Recommendations** | Category-based and popularity-driven suggestions |
+| **⭐ Rating System** | User-driven 1-5 star ratings with dynamic updates |
+| **📱 Responsive UI** | Mobile-friendly interface using Bootstrap + Tailwind |
 
 ---
 
-## 🚀 Getting Started
+## 🛠️ Tech Stack
+**Backend**  
+![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python)
+![Flask](https://img.shields.io/badge/Flask-3.1.0-green?logo=flask)
 
-### 1. Clone the Repository
+**Frontend**  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.2+-purple?logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/Tailwind-3.3+-blue?logo=tailwind-css)
 
+**Data**  
+![JSON](https://img.shields.io/badge/JSON-Storage-orange)
+![Jinja2](https://img.shields.io/badge/Templating-Jinja2-red)
+
+---
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Python 3.12+
+- pip package manager
+
+### Installation
 ```bash
+# Clone repository
 git clone https://github.com/yourusername/shopsmart.git
 cd shopsmart
+
+# Create and activate virtual environment
+python -m venv venv
+
+# Windows:
+venv\Scripts\activate.bat
+
+# Mac/Linux:
+source venv/bin/activate
+
+# Install dependencies
+pip install flask
