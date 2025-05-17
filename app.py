@@ -5,14 +5,14 @@ import datetime
 from collections import defaultdict
 
 app = Flask(__name__)
-app.secret_key = 'secret_key_here'
+app.secret_key = '1234'
 
 class User:
     def __init__(self, password, purchases=None, ratings=None, cart=None):
         self.password = password
         self.purchases = purchases if purchases else []
         self.ratings = ratings if ratings else {}
-        self.cart = cart if cart else []  # Add cart attribute
+        self.cart = cart if cart else [] 
 
 class Product:
     def __init__(self, id, title, price, category, image, purchase_count=0, rating=0.0, rating_count=0):
@@ -36,12 +36,11 @@ def load_users():
         with open("users.txt", "r") as f:
             for line in f:
                 parts = line.strip().split('\t')
-                if len(parts) >= 4:  # Handle old and new data formats
+                if len(parts) >= 4:  
                     username = parts[0]
                     password = parts[1]
                     purchases = json.loads(parts[2]) if parts[2] else []
                     ratings = json.loads(parts[3]) if parts[3] else {}
-                    # Handle cart for old users (default to empty list)
                     cart = json.loads(parts[4]) if len(parts) >= 5 else []
                     users[username] = User(
                         password=password,
@@ -52,7 +51,6 @@ def load_users():
     except Exception as e:
         print(f"Error loading users: {str(e)}")
 
-# Update save_users() in app.py
 def save_users():
     with open("users.txt", "w") as f:
         for username, user in users.items():
@@ -164,14 +162,13 @@ def recommendations():
     recs = [p for p in sorted_products if p.id not in purchased and p.purchase_count > 0]
     return render_template('products.html', products=recs, user=username)
 
-# Modify add_to_cart() in app.py
 @app.route('/add_to_cart/<product_id>')
 def add_to_cart(product_id):
     if 'user' not in session:
         return redirect(url_for('login'))
     username = session['user']
     users[username].cart.append(product_id)
-    save_users()  # Save the updated cart
+    save_users() 
     return '', 204
 
 @app.route('/cart', methods=['GET', 'POST'])
@@ -189,12 +186,11 @@ def view_cart():
     if request.method == 'POST':
         product_id = request.form.get('remove')
         try:
-            user.cart.remove(product_id)  # Remove first occurrence
+            user.cart.remove(product_id) 
             save_users()
         except ValueError:
-            pass  # If product_id not found, do nothing
+            pass  
     
-    # Process cart items from user.cart
     quantities = defaultdict(int)
     for pid in user.cart:
         quantities[pid] += 1
@@ -247,7 +243,6 @@ def history():
                 'product': products[pid],
                 'purchase_date': purchase.get('date', 'N/A'),
                 'amount': purchase['amount'],
-                # Add rating information directly to the purchase
                 'user_rating': user.ratings.get(pid, None)
             })
     
@@ -270,7 +265,6 @@ def purchase(product_id):
     save_users()
     return redirect(url_for('history'))
 
-# Add to app.py
 @app.context_processor
 def inject_user_data():
     if 'user' in session:
